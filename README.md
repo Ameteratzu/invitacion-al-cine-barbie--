@@ -1,6 +1,6 @@
 # ¿Quieres ir al cine conmigo?
 
-Un scrip en Java simple para invitar a una persona al cine
+Un script en Java simple para invitar a una persona al cine
 Script modificado por mi.
 
 Todos los creditos a:  https://www.tiktok.com/@linuxitos
